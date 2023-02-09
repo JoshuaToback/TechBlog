@@ -2,7 +2,7 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) 
 
-[![HerokuLogo](https://www.herokucdn.com/deploy/button.svg)](https://polar-cliffs-01056.herokuapp.com//)
+[![HerokuLogo](https://www.herokucdn.com/deploy/button.svg)](https://polar-cliffs-01056.herokuapp.com)
 
 ## Table of Contents
 
